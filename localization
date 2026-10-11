@@ -1,3 +1,0 @@
-Reusable pipeline allows to categorise human proteins into cytosolic and mitochondrial compartments based on their names, synonyms, Length and sequence.
-It is highly curable and uses Uniprot and NCBI api to correctly categorise.
-Old names are also taken in account
